@@ -38,7 +38,7 @@ Building Slate was a significant learning experience in understanding the comple
 Deployed website: [https://slate-mocha-nine.vercel.app](https://slate-mocha-nine.vercel.app)
 
 <p align="center">
-  <img alt="Screenshot of Slate" src="assets/images/clone.png"><br>
+  <img alt="Screenshot of Slate" src="public/clone.png"><br>
   Whiteboard Canvas Demo
 </p>
 

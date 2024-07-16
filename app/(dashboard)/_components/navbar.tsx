@@ -13,9 +13,7 @@ export const Navbar = () => {
 
   return (
     <div className="flex items-center gap-x-3 p-5">
-      <div className="hidden lg:flex lg:flex-1">
-        <SearchInput />
-      </div>
+      <div className="hidden lg:flex lg:flex-1"></div>
       <div className="block lg:hidden flex-1">
         <OrganizationSwitcher
           hidePersonal
